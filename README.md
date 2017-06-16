@@ -1,7 +1,3 @@
-apache2
-
-python-pip
-
 # Linux server configuration project
 
 The main scope is to create a linux server, on [Amazon Lightsail](lightsail.aws.amazon.com), with ssh access through key pair and not through password authentication.
